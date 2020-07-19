@@ -32,6 +32,6 @@ py "Computer Science Adventure Quiz.py"
 
 ## How to Play
 
-* Navigate the maze using the popup boxes that appear
+* Navigate the maze using the popup boxes that appear.
 * You start with 3 lives and must reach the end of the maze.
-* You lose a life if you encounter an enemy and answer the multiple choice question incorrectly
+* You lose a life if you encounter an enemy and answer the multiple choice question incorrectly.
